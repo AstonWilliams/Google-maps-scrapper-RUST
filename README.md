@@ -13,7 +13,7 @@ High‑performance, cross‑platform Google Maps scraper written in Rust. Collec
 Support the project:
 - Star the repo: https://github.com/AstonWilliams/Google-maps-scrapper-RUST
 - Donate
-![Buy a coffee](gumroad.png)
+![Buy a coffee](gumroad.png)(https://usefulthings.gumroad.com/coffee)
 
 ---
 
