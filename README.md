@@ -1,5 +1,5 @@
 # Google Maps Scraper (Rust)
-
+![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-2196f3?style=for-the-badge) ![Privacy](https://img.shields.io/badge/privacy-on--device-2e7d32?style=for-the-badge) ![Desktop App](https://img.shields.io/badge/app-desktop-ff6f00?style=for-the-badge)
 <!-- Header Image Placeholder -->
 <!-- Add your hero image/banner here -->
 
@@ -11,7 +11,8 @@
 High‑performance, cross‑platform Google Maps scraper written in Rust. Collects business listings with ratings, contact details, and location data. Supports fast HTTP mode for speed and full Chromium mode for richer fields.
 
 Support the project:
-- Star the repo: https://github.com/AstonWilliams/Google-maps-scrapper-RUST
+- Star the repo
+[![Star the repo](star.svg)]
 - Donate
 [![Buy a coffee](gumroad.png)](https://usefulthings.gumroad.com/coffee)
 
