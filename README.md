@@ -10,10 +10,10 @@
 
 High‑performance, cross‑platform Google Maps scraper written in Rust. Collects business listings with ratings, contact details, and location data. Supports fast HTTP mode for speed and full Chromium mode for richer fields.
 
-Support the project:
-- Star the repo
-[![Star the repo](star.svg)]
-- Donate
+## Support the project:
+### Star the repo
+![Star the repo](star.svg)
+### Buy me a Coffee
 [![Buy a coffee](gumroad.png)](https://usefulthings.gumroad.com/coffee)
 
 ---
